@@ -1,0 +1,10 @@
+c:\users\qrati\onedrive\belgeler\visual studio 2012\Projects\RealtimeVersionSystem\RealtimeVersionSystem\bin\Debug\RealtimeVersionSystem.exe.config
+C:\Users\qrati\OneDrive\Belgeler\Visual Studio 2012\Projects\RealtimeVersionSystem\RealtimeVersionSystem\obj\Debug\RealtimeVersionSystem.csprojResolveAssemblyReference.cache
+C:\Users\qrati\OneDrive\Belgeler\Visual Studio 2012\Projects\RealtimeVersionSystem\RealtimeVersionSystem\obj\Debug\RealtimeVersionSystem.Form1.resources
+C:\Users\qrati\OneDrive\Belgeler\Visual Studio 2012\Projects\RealtimeVersionSystem\RealtimeVersionSystem\obj\Debug\RealtimeVersionSystem.Form2.resources
+C:\Users\qrati\OneDrive\Belgeler\Visual Studio 2012\Projects\RealtimeVersionSystem\RealtimeVersionSystem\obj\Debug\RealtimeVersionSystem.Properties.Resources.resources
+C:\Users\qrati\OneDrive\Belgeler\Visual Studio 2012\Projects\RealtimeVersionSystem\RealtimeVersionSystem\obj\Debug\RealtimeVersionSystem.csproj.GenerateResource.Cache
+C:\Users\qrati\OneDrive\Belgeler\Visual Studio 2012\Projects\RealtimeVersionSystem\RealtimeVersionSystem\bin\Debug\RealtimeVersionSystem.exe
+C:\Users\qrati\OneDrive\Belgeler\Visual Studio 2012\Projects\RealtimeVersionSystem\RealtimeVersionSystem\bin\Debug\RealtimeVersionSystem.pdb
+C:\Users\qrati\OneDrive\Belgeler\Visual Studio 2012\Projects\RealtimeVersionSystem\RealtimeVersionSystem\obj\Debug\RealtimeVersionSystem.exe
+C:\Users\qrati\OneDrive\Belgeler\Visual Studio 2012\Projects\RealtimeVersionSystem\RealtimeVersionSystem\obj\Debug\RealtimeVersionSystem.pdb
